@@ -1,7 +1,7 @@
 # Taskie
-To-do Web Application using Django Framework
+A To-do Web Application using Django Framework.
 
-#### Things you can do:
+Things you can do:
 - Add new tasks.
 - Delete any existing tasks.
 - Edit any existing tasks.
